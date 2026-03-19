@@ -37,3 +37,53 @@ aplicando metodologías modernas de arquitectura CSS.
    vs. explícito aplicado a la sección ”Estaciones Favoritas”.
 5. Estrategia Mobile-First: Uso de Media Queries lógicas y unidades relativas (rem, em,
    vh, vw).
+
+### Unidad 2: Integración Multimedia y Optimización SEO (25 Horas)
+
+Objetivo: Gestionar activos visuales de alto impacto con bajo costo de transferencia de datos.
+
+1. Gráficos Vectoriales (SVG): Implementación de iconos de estaciones y logotipos con
+   manipulación de color vía CSS.
+2. Imágenes Responsivas: Uso de srcset y <picture> para cargar diferentes versiones del
+   Mapa de Red según el dispositivo.
+3. Formatos de Nueva Generación: Implementación de WebP y AVIF para reducir el peso
+   de las fotos de estaciones.
+4. SEO Semántico: Jerarquía de encabezados (h1-h6) y meta-etiquetas de geolocalización
+   para búsqueda de rutas.
+5. Open Graph: Configuración de tarjetas compartibles para el estado del servicio en
+   tiempo real.
+
+### Unidad 4: Proyecto Integrador: Laboratorio ”Estación Digital” (30 Horas)
+
+Objetivo: Desarrollo de una aplicación web funcional de una estación específica del sistema.
+
+1. Fase 1 (Investigación): Análisis de necesidades de la estación elegida (ej. Estación
+   Universidad - Perfil Estudiantil).
+2. Fase 2 (Prototipado): Diseño en Figma siguiendo la guía de estilos establecida.
+3. Fase 3 (Codificación): Desarrollo bajo arquitectura ITCSS + BEM.
+4. Fase 4 (Despliegue y Demo): Publicación en Netlify/Vercel y sustentación técnica.
+
+## Metodología de Aprendizaje
+
+El curso se basa en el modelo PBL (Project Based Learning). Cada bloque de 20 minutos
+de teoría es seguido por 40 minutos de ”Live Coding” donde el docente y los alumnos
+construyen juntos el portal del Metro.
+
+## Evaluación y evidencias
+
+Evidencia Descripción Peso
+
+---
+
+Taller BEM Maquetación de la Tarjeta Cívica con 3 modificadores
+de perfil.
+20%
+Grid Challenge Creación del panel de estaciones favoritas con diseño
+responsivo.
+20%
+Audit Report Informe de corrección de accesibilidad y SEO de una
+interfaz dada.
+20%
+Proyecto Final Landing page completa de una estación (Código +
+Despliegue).
+40%
